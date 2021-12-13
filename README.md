@@ -35,5 +35,5 @@ $ hadoop fs -put weatherHistory.csv /user/username/data
 
 7. Run the following command to execute the code on input files respectively. The output file with results will be generated.
 ```
-$ spark-submit weather_prediction.py
+$ spark-submit weather_prediction.py >weather_report.txt
 ```
