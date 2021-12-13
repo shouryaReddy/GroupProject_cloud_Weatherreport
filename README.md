@@ -1,6 +1,6 @@
 ## GroupProject_cloud_Weatherreport
 
 # Team Members
-+ Ritesh Reddy Manchireddy
++ Ritesh Reddy Manchi Reddy
 + Manjusha Dondeti
 + Shourya Reddy Katkam
